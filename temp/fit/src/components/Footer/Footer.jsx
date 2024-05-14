@@ -6,7 +6,7 @@ import LinkedIn from "../../assets/linkedin.png";
 import Logo from '../../assets/logo.png'
 const Footer = () => {
   return (
-    <div className="Footer-container">
+    <div className="Footer-container" style={{height:'12rem'}}>
       <hr />
       <div className="footer">
         <div className="social-links">
